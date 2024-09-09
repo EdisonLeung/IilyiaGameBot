@@ -1,7 +1,7 @@
 import "dotenv/config"
 const commands = [
     {
-        name: 'test_ping',
+        name: 'ping',
         description: 'test template command',
     }
 ];

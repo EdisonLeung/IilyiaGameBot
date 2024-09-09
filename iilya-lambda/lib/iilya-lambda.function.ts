@@ -41,7 +41,7 @@ export const handler = async (event: any, context: Context): Promise<APIGatewayP
                 body: JSON.stringify({
                   type: 4,
                   data: {
-                    content: 'PONG!',
+                    content: 'TEST CDK PONG!',
                   },
                 }),
               };
